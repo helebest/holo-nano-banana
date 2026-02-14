@@ -18,7 +18,7 @@ Generate images using Google's Nano Banana Pro (Gemini 3 Pro Image) API via Open
 ### Generate Image
 
 ```bash
-bash {baseDir}/scripts/banana.sh --prompt "A futuristic city" --output "/mnt/usb/data/images/2026/city.png"
+bash {baseDir}/scripts/banana.sh --prompt "A futuristic city" --output "$HOME/data/images/2026/city.png"
 ```
 
 ### Edit/Transform Image
