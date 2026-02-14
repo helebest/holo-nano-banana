@@ -11,7 +11,7 @@ def get_api_key(provided_key: str | None) -> str | None:
     """Get API key from argument first, then environment."""
     if provided_key:
         return provided_key
-    return os.environ.get("OPENROUTER_API_KEY") or os.environ.get("GEMINI_API_KEY")
+    return os.environ.get("OPENROUTER_API_KEY")
 
 def encode_image(image_path):
     with open(image_path, "rb") as image_file:
