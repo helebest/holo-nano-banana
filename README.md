@@ -41,7 +41,7 @@ uv run scripts/generate.py --prompt "A cool banana wearing sunglasses" --output 
 ./openclaw_deploy_skill.sh <skills-directory>
 
 # 示例
-./openclaw_deploy_skill.sh /mnt/usb/holobot/.openclaw/skills/holo-nano-banana
+./openclaw_deploy_skill.sh /path/to/openclaw/skills/holo-nano-banana
 ```
 
 ### 部署后的结构
