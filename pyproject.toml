@@ -1,0 +1,10 @@
+[project]
+name = "holo-nano-banana"
+version = "0.1.0"
+description = "Generate and edit images using Nano Banana Pro (Gemini 3 Pro) via OpenRouter"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "requests>=2.31.0",
+    "pillow>=10.2.0"
+]
