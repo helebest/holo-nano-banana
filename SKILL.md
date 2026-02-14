@@ -1,7 +1,7 @@
 ---
 name: holo-nano-banana
 description: Generate or edit images using Nano Banana Pro (Gemini 3 Pro) via OpenRouter.
-homepage: https://openrouter.ai/models/google/gemini-3-pro-image-preview
+homepage: https://github.com/helebest/holo-nano-banana
 ---
 
 # Holo Nano Banana
