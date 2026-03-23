@@ -53,6 +53,7 @@ mkdir -p "$TARGET_PATH"
 # Files and directories to copy
 DEPLOY_ITEMS=(
     "SKILL.md"
+    "prompts"
     "scripts"
 )
 
